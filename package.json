@@ -1,0 +1,26 @@
+{
+  "name": "chuck-steve-init",
+  "version": "1.0.0",
+  "description": "The init script for [steve](http://github.com/brycekbargar/Steve)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycekbargar/steve-init.git"
+  },
+  "author": "Bryce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycekbargar/steve-init/issues"
+  },
+  "homepage": "https://github.com/brycekbargar/steve-init#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "npm-package-arg": "^4.1.0",
+    "semver": "^5.1.0",
+    "validate-npm-package-license": "^3.0.1",
+    "validate-npm-package-name": "^2.2.2"
+  }
+}
