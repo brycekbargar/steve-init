@@ -72,8 +72,7 @@ exports.directories = function (cb) {
 
 if (!package.scripts) {
   exports.scripts = {
-    'start': 'steve start',
-    'prepublish': 'steve package'
+    'start': 'steve start'
   };
 }
 
