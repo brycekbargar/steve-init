@@ -1,6 +1,6 @@
 {
   "name": "chuck-steve-init",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The init script for [steve](http://github.com/brycekbargar/Steve)",
   "main": "index.js",
   "scripts": {

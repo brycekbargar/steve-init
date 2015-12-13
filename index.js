@@ -70,6 +70,10 @@ exports.directories = function (cb) {
   });
 };
 
+if(!package.files) {
+  exports.files = ['package'];
+}
+
 if (!package.scripts) {
   exports.scripts = {
     'start': 'steve start'
